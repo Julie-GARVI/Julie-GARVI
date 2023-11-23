@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-En reconversion professionnelle, j'ai choisi de m'orienter dans un domaine qui me passionne : le développement web. Je me suis spécialisée sur la partie front-end pour le côté créatif et logique.
+En reconversion professionnelle, j'ai choisi de m'orienter dans un domaine qui me passionne : le développement web. Je me suis spécialisée sur la partie front-end pour le côté créatif et logique. 
 
 <!--
 **Julie-GARVI/Julie-GARVI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
