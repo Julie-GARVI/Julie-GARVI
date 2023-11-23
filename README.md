@@ -1,8 +1,8 @@
-### Hi there 👋
+## Hi there 👋
 
 En reconversion professionnelle, j'ai choisi de m'orienter dans un domaine qui me passionne : le développement web. Je me suis spécialisée sur la partie front-end pour le côté créatif et logique. 
 
-# Technologies
+## Technologies
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://www.javascript.com/)
 
