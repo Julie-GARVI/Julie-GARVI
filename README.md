@@ -7,6 +7,7 @@ En reconversion professionnelle, j'ai choisi de m'orienter dans un domaine qui m
 [![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://www.javascript.com/)
 [![Svelte](https://img.shields.io/badge/-Svelte-ff3e00?style=flat&logo=svelte&logoColor=white)](https://svelte.dev/)
+[![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)](https://www.php.net/)
 
 <!--
 **Julie-GARVI/Julie-GARVI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
