@@ -9,6 +9,7 @@ En reconversion professionnelle, j'ai choisi de m'orienter dans un domaine qui m
 [![Svelte](https://img.shields.io/badge/-Svelte-ff3e00?style=flat&logo=svelte&logoColor=white)](https://svelte.dev/)
 [![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)](https://www.php.net/)
 [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)](https://laravel.com/)
 
 <!--
 **Julie-GARVI/Julie-GARVI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
