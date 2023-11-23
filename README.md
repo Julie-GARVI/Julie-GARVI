@@ -12,6 +12,7 @@ En reconversion professionnelle, j'ai choisi de m'orienter dans un domaine qui m
 [![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)](https://laravel.com/)<br>
 [![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/)
+[![VSCode](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 
 <!--
 **Julie-GARVI/Julie-GARVI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
