@@ -2,7 +2,7 @@
 
 En reconversion professionnelle, j'ai choisi de m'orienter dans un domaine qui me passionne : le développement web. Je me suis spécialisée sur la partie front-end pour le côté créatif et logique. 
 
-portfolio : https://portfolio-julie-garvi.fr/
+Mon portfolio : https://portfolio-julie-garvi.fr/
 
 <center>
 
