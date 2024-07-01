@@ -1,6 +1,6 @@
 ## Profil : 
 
-En reconversion professionnelle, j'ai choisi de m'orienter dans un domaine qui me passionne : le développement web. Je me suis spécialisée sur la partie front-end pour le côté créatif. 
+Je suis Julie Garvi, développeuse web full stack, passionnée par la création de sites web et d'applications.
 
 Mon portfolio : https://portfolio-julie-garvi.fr/
 
